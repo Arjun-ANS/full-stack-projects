@@ -1,5 +1,5 @@
 # Introduction
-- This is a mini gaming website that contains all your childhood games!.
+- This is a mini gaming website that contains some of our childhood games!.
 ## Features
 - ✔ Play 3+ games with varying levels of difficulty. --br
 - ✔ Enjoy relaxing with playing drums game.
